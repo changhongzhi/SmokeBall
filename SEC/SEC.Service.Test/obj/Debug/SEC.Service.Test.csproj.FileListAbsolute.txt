@@ -1,0 +1,15 @@
+C:\chz\SmokeBall\SEC\SEC.Service.Test\bin\Debug\SEC.Service.Test.dll
+C:\chz\SmokeBall\SEC\SEC.Service.Test\bin\Debug\SEC.Service.Test.pdb
+C:\chz\SmokeBall\SEC\SEC.Service.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\chz\SmokeBall\SEC\SEC.Service.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\chz\SmokeBall\SEC\SEC.Service.Test\bin\Debug\nunit.framework.dll
+C:\chz\SmokeBall\SEC\SEC.Service.Test\bin\Debug\SEC.Services.dll
+C:\chz\SmokeBall\SEC\SEC.Service.Test\bin\Debug\SEC.Services.pdb
+C:\chz\SmokeBall\SEC\SEC.Service.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\chz\SmokeBall\SEC\SEC.Service.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\chz\SmokeBall\SEC\SEC.Service.Test\bin\Debug\nunit.framework.xml
+C:\chz\SmokeBall\SEC\SEC.Service.Test\obj\Debug\SEC.Service.Test.csprojAssemblyReference.cache
+C:\chz\SmokeBall\SEC\SEC.Service.Test\obj\Debug\SEC.Service.Test.csproj.CoreCompileInputs.cache
+C:\chz\SmokeBall\SEC\SEC.Service.Test\obj\Debug\SEC.Service.Test.csproj.CopyComplete
+C:\chz\SmokeBall\SEC\SEC.Service.Test\obj\Debug\SEC.Service.Test.dll
+C:\chz\SmokeBall\SEC\SEC.Service.Test\obj\Debug\SEC.Service.Test.pdb

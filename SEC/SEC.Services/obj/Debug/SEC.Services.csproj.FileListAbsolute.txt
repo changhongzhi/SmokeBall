@@ -1,0 +1,6 @@
+C:\chz\SmokeBall\SEC\SEC.Services\bin\Debug\SEC.Services.dll
+C:\chz\SmokeBall\SEC\SEC.Services\bin\Debug\SEC.Services.pdb
+C:\chz\SmokeBall\SEC\SEC.Services\obj\Debug\SEC.Services.csprojAssemblyReference.cache
+C:\chz\SmokeBall\SEC\SEC.Services\obj\Debug\SEC.Services.csproj.CoreCompileInputs.cache
+C:\chz\SmokeBall\SEC\SEC.Services\obj\Debug\SEC.Services.dll
+C:\chz\SmokeBall\SEC\SEC.Services\obj\Debug\SEC.Services.pdb

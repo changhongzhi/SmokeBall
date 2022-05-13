@@ -1,0 +1,17 @@
+﻿<Window x:Class="SEC.UI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SEC.UI"
+        mc:Ignorable="d"
+        Title="SEC" Height="450" Width="800">
+    <Grid>
+        <Button Content="Search" HorizontalAlignment="Left" Margin="697,180,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <TextBox Name="TBkeyWord" HorizontalAlignment="Left" Height="22" Margin="262,178,0,0" TextWrapping="Wrap" Text="conveyancing software" VerticalAlignment="Top" Width="408"/>
+        <Label Name="LBResult" Content="" HorizontalAlignment="Left" Margin="262,233,0,0" VerticalAlignment="Top" RenderTransformOrigin="-3.105,-1.381" Height="71" Width="408"/>
+        <Label Content="Please Input Search String" HorizontalAlignment="Left" Margin="78,174,0,0" VerticalAlignment="Top"/>
+        <Label Content="Result" HorizontalAlignment="Left" Margin="78,233,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
